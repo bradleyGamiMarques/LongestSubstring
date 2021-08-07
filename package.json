@@ -1,0 +1,30 @@
+{
+  "name": "longestsubstring",
+  "version": "1.0.0",
+  "description": "Solution to the Longest Substring problem on LeetCode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleyGamiMarques/LongestSubstring.git"
+  },
+  "keywords": [
+    "Algorithms",
+    "LeetCode",
+    "LongestSubstring",
+    "Solution"
+  ],
+  "author": "Bradley Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleyGamiMarques/LongestSubstring/issues"
+  },
+  "homepage": "https://github.com/bradleyGamiMarques/LongestSubstring#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
